@@ -19,6 +19,6 @@ Megjeleníti a rendeléseket, amiket kijelölve
 - "elkészült"-nek lehet jelezni,
 - "nem készíthető el"-nek lehet jelezni.
 
-Videó:
+Videó: https://youtu.be/AZRbaFChkHU
 
 
