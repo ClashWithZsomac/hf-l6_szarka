@@ -16,7 +16,7 @@ namespace OwnRestaurant.Repository
 
         public static ItemList LoadOrdersFromFile()
         {
-            lock (_syncLock)
+            lock (_syncLock) 
             {
                 if (File.Exists(path))
                 {
