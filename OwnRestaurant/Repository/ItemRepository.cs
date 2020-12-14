@@ -27,7 +27,7 @@ namespace OwnRestaurant.Repository
                             return (ItemList)serializer.Deserialize(fs);
                     }
                     catch
-                    {
+                    { 
                     }
                 }
                 return new ItemList()
