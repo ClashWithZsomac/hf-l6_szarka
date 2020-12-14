@@ -1,5 +1,7 @@
 ## Szarka Zsombor Zsolt - EV6KUK
 
+Valamiért nem tudok jelenleg pull requestet készíteni, ezért adtam hozzá a tanárurat kollaborátorként a repozitorimhoz. Egy jóideje itt szenvedek azzal, hogy elkészítsek egy pull requestet. A repozitoriban minden frissül ha commitolok és felpusholom, viszont valamiért pull requestet nem készít. Nemtudom mitévő legyek, igyekszem megoldani a problémát.
+
 # Étterem rendeléskezelő rendszer
 
 ## A program célja:
